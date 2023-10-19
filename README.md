@@ -1,4 +1,4 @@
-# SAC agent in Laser Hockey Environment
+# SAC agent in a Laser Hockey Environment
 
 This repository contains the implementation of the SAC agent designed for the [HockeyEnv](https://github.com/martius-lab/laser-hockey-env). This is the challenging custom environment made using the [OpenAI Gymnasium](https://gymnasium.farama.org/index.html)
 and the Box2D engine. It is a two-player game where the agent has to learn to defend its goal, handle the puck, and shoot it to the opponent's goal. To learn these skills the agent undergoes a curriculum learning by utilizing three play modes (defense, shoot, normal).
